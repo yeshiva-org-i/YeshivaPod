@@ -1,4 +1,5 @@
 import os
+import re
 import sys
 import json
 import logging
@@ -99,19 +100,29 @@ def generate_rss(config, episodes, output_file):
     
     fg.title(config['podcast_title'])
     fg.description(config['podcast_description'])
-    fg.author({'name': config['podcast_author'], 'email': config['podcast_email']})
-    fg.logo(config['podcast_cover_image_url'])
-    fg.subtitle(config['podcast_description'])
-    fg.language('he') # Hebrew by default
-    
     github_repo = os.environ.get('GITHUB_REPOSITORY', 'username/repo')
     username = github_repo.split('/')[0]
     repo = github_repo.split('/')[1] if '/' in github_repo else 'repo'
     pages_url = f"https://{username}.github.io/{repo}/"
+
+    # The repo can change owner (YeshivaPod moved to the site's organization, 11/2026).
+    # Cover and audio URLs saved under an earlier owner are written with the current
+    # one, so the feed doesn't lean on GitHub's redirect from the old address.
+    def current_owner(url):
+        url = re.sub(r'^https://[^/]+\.github\.io/' + re.escape(repo) + '/', pages_url, url)
+        return re.sub(r'^https://github\.com/[^/]+/' + re.escape(repo) + '/',
+                      f'https://github.com/{github_repo}/', url)
+
+    cover_url = current_owner(config['podcast_cover_image_url'])
+
+    fg.author({'name': config['podcast_author'], 'email': config['podcast_email']})
+    fg.logo(cover_url)
+    fg.subtitle(config['podcast_description'])
+    fg.language('he') # Hebrew by default
     fg.link(href=pages_url, rel='alternate')
     
     fg.podcast.itunes_category('Education')
-    fg.podcast.itunes_image(config['podcast_cover_image_url'])
+    fg.podcast.itunes_image(cover_url)
     fg.podcast.itunes_explicit('no')
     fg.podcast.itunes_author(config['podcast_author'])
     fg.podcast.itunes_owner(name=config['podcast_author'], email=config['podcast_email'])
@@ -132,7 +143,7 @@ def generate_rss(config, episodes, output_file):
         fe.published(upload_date)
         
         # Podtrac Prefix for analytics
-        audio_url_for_rss = ep['audio_url']
+        audio_url_for_rss = current_owner(ep['audio_url'])
         if audio_url_for_rss.startswith('https://'):
             audio_url_for_rss = 'https://dts.podtrac.com/redirect.mp3/' + audio_url_for_rss[8:]
         
