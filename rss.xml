@@ -2,20 +2,20 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>בעין טובה - שיחות הרב זלמן מלמד לפרשת השבוע</title>
-    <link>https://roeepe.github.io/YeshivaPod/</link>
+    <link>https://yeshiva-org-i.github.io/YeshivaPod/</link>
     <description>שיחות ומאמרים על פרשת השבוע מאת הרב זלמן ברוך מלמד שליט"א, ראש ישיבת בית אל ואתר ישיבה. עכשיו זמין להאזנה גם כפודקאסט.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://roeepe.github.io/YeshivaPod/podcast_cover.png</url>
+      <url>https://yeshiva-org-i.github.io/YeshivaPod/podcast_cover.png</url>
       <title>בעין טובה - שיחות הרב זלמן מלמד לפרשת השבוע</title>
-      <link>https://roeepe.github.io/YeshivaPod/</link>
+      <link>https://yeshiva-org-i.github.io/YeshivaPod/</link>
     </image>
     <language>he</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:00:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:25:12 +0000</lastBuildDate>
     <itunes:author>אתר ישיבה</itunes:author>
     <itunes:category text="Education"/>
-    <itunes:image href="https://roeepe.github.io/YeshivaPod/podcast_cover.png"/>
+    <itunes:image href="https://yeshiva-org-i.github.io/YeshivaPod/podcast_cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>אתר ישיבה</itunes:name>
@@ -123,7 +123,7 @@
 
 37:05 · לא מוותרים על חלקי ארץ ישראל, אפילו באופן זמני — ותפילה לגבולות שלמים.</description>
       <guid isPermaLink="false">lJWVo3zL_ww</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/lJWVo3zL_ww/lJWVo3zL_ww.mp3" length="35038701" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/lJWVo3zL_ww/lJWVo3zL_ww.mp3" length="35038701" type="audio/mpeg"/>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/lJWVo3zL_ww/hqdefault.jpg"/>
     </item>
@@ -162,7 +162,7 @@
 
 מתוך שיחת מוצ"ש לפרשת לך לך תשפ"ז מפי ראש ישיבת בית אל הרב זלמן ברוך מלמד שליט"א, בשידור חי מבית המדרש של ישיבת בית אל.</description>
       <guid isPermaLink="false">elections-5787</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/elections-5787/elections-5787.mp3" length="23488948" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/elections-5787/elections-5787.mp3" length="23488948" type="audio/mpeg"/>
       <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -265,7 +265,7 @@
 
 44:44 · "בשמיים מכריזים": מי שאומר "גזורו" אינו צודק.</description>
       <guid isPermaLink="false">KyckTnMM9eA</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/KyckTnMM9eA/KyckTnMM9eA.mp3" length="43061349" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/KyckTnMM9eA/KyckTnMM9eA.mp3" length="43061349" type="audio/mpeg"/>
       <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/KyckTnMM9eA/hqdefault.jpg"/>
     </item>
@@ -359,7 +359,7 @@
 
 44:00 · "אחד היה אברהם": אברהם, יהושע, והשלב החדש של קריאה בשם ה' אחד.</description>
       <guid isPermaLink="false">LgN2J4wTKkg</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/LgN2J4wTKkg/LgN2J4wTKkg.mp3" length="41528301" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/LgN2J4wTKkg/LgN2J4wTKkg.mp3" length="41528301" type="audio/mpeg"/>
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/LgN2J4wTKkg/hqdefault.jpg"/>
     </item>
@@ -441,7 +441,7 @@
 
 50:04 · ההתנדבות וגילויי האחדות: "אי אפשר להגיד לאח אתה לא אח שלי" — ועכשיו מתגלה שכולם אחים.</description>
       <guid isPermaLink="false">34dxIQjKBSc</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/34dxIQjKBSc/34dxIQjKBSc.mp3" length="37546605" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/34dxIQjKBSc/34dxIQjKBSc.mp3" length="37546605" type="audio/mpeg"/>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/34dxIQjKBSc/hqdefault.jpg"/>
     </item>
@@ -512,7 +512,7 @@
 
 53:48 · "עד כאן הדרשה שלי — ועכשיו הדרשה של הקדוש ברוך הוא": השינוי העמוק שעובר הציבור בישראל, הסליחות בתל אביב ובכיכרות, ודברי הרב קוק זצ"ל בפרקי המלחמה — קריאה להקשיב לדבר ה' העולה מתוך המציאות.</description>
       <guid isPermaLink="false">yxhIamHhOGY</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/yxhIamHhOGY/yxhIamHhOGY.mp3" length="53490189" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/yxhIamHhOGY/yxhIamHhOGY.mp3" length="53490189" type="audio/mpeg"/>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/yxhIamHhOGY/hqdefault.jpg"/>
     </item>
@@ -537,7 +537,7 @@
 שיחת מוצ"ש לפרשת ניצבים מפי ראש ישיבת בית אל הרב זלמן ברוך מלמד שליט"א
 בשידור חי מבית המדרש של ישיבת בית אל.</description>
       <guid isPermaLink="false">JXoiKMvPNBI</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/JXoiKMvPNBI/JXoiKMvPNBI.mp3" length="43738749" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/JXoiKMvPNBI/JXoiKMvPNBI.mp3" length="43738749" type="audio/mpeg"/>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/JXoiKMvPNBI/hqdefault.jpg"/>
     </item>
@@ -562,7 +562,7 @@
 
 השיחה נמסרה בשנת תשפ"ה.</description>
       <guid isPermaLink="false">abdW1rgh9XE</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/abdW1rgh9XE/abdW1rgh9XE.mp3" length="24755709" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/abdW1rgh9XE/abdW1rgh9XE.mp3" length="24755709" type="audio/mpeg"/>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/abdW1rgh9XE/hqdefault.jpg"/>
     </item>
@@ -591,7 +591,7 @@
 ◄ אתר ישיבה בטיקטוק • https://www.tiktok.com/@yeshiva.org.il
 ◄ אתר ישיבה בפייסבוק • https://www.facebook.com/share/1QGMqofSDH/</description>
       <guid isPermaLink="false">_ndUD9W7IHI</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/_ndUD9W7IHI/_ndUD9W7IHI.mp3" length="41279997" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/_ndUD9W7IHI/_ndUD9W7IHI.mp3" length="41279997" type="audio/mpeg"/>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/_ndUD9W7IHI/hqdefault.jpg"/>
     </item>
@@ -617,7 +617,7 @@
 שיחת מוצ"ש לפרשת כי תצא מפי ראש ישיבת בית אל הרב זלמן ברוך מלמד שליט"א
 בשידור חי מבית המדרש של ישיבת בית אל</description>
       <guid isPermaLink="false">CkPeNZoXX8o</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/CkPeNZoXX8o/CkPeNZoXX8o.mp3" length="28205109" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/CkPeNZoXX8o/CkPeNZoXX8o.mp3" length="28205109" type="audio/mpeg"/>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/CkPeNZoXX8o/hqdefault.jpg"/>
     </item>
@@ -640,7 +640,7 @@
 ◄ אתר ישיבה בטיקטוק • https://www.tiktok.com/@yeshiva.org.il
 ◄ אתר ישיבה בפייסבוק • https://www.facebook.com/share/1QGMqofSDH/</description>
       <guid isPermaLink="false">_Vz6YKcp780</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/_Vz6YKcp780/_Vz6YKcp780.mp3" length="40731309" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/_Vz6YKcp780/_Vz6YKcp780.mp3" length="40731309" type="audio/mpeg"/>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/_Vz6YKcp780/hqdefault.jpg"/>
     </item>
@@ -665,7 +665,7 @@
 
 🌐 לכל התכנים, השיעורים והמאמרים של אתר ישיבה היכנסו: yeshiva.org.il</description>
       <guid isPermaLink="false">aWLVGcdcqyE</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/aWLVGcdcqyE/aWLVGcdcqyE.mp3" length="41641965" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/aWLVGcdcqyE/aWLVGcdcqyE.mp3" length="41641965" type="audio/mpeg"/>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/aWLVGcdcqyE/hqdefault.jpg"/>
     </item>
@@ -683,7 +683,7 @@
 השיחה נמסרה בשנת תשפ"ה
 בשידור חי מבית המדרש של ישיבת בית אל</description>
       <guid isPermaLink="false">4D36RjTEHjw</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/4D36RjTEHjw/4D36RjTEHjw.mp3" length="57767661" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/4D36RjTEHjw/4D36RjTEHjw.mp3" length="57767661" type="audio/mpeg"/>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/4D36RjTEHjw/hqdefault.jpg"/>
     </item>
@@ -708,7 +708,7 @@
 בשידור חי מבית המדרש של ישיבת בית אל.
 השיחה נמסרה בשנת תשפ"ה</description>
       <guid isPermaLink="false">HNPPhHpiqaQ</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/HNPPhHpiqaQ/HNPPhHpiqaQ.mp3" length="52082541" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/HNPPhHpiqaQ/HNPPhHpiqaQ.mp3" length="52082541" type="audio/mpeg"/>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/HNPPhHpiqaQ/hqdefault.jpg"/>
     </item>
@@ -738,7 +738,7 @@
 
 לצפייה בתכנים נוספים, שיעורים, מאמרים עמוקים ובירורים תורניים מגוונים, היכנסו לאתר ישיבה: yeshiva.org.il</description>
       <guid isPermaLink="false">lk8OkDxRkKM</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/lk8OkDxRkKM/lk8OkDxRkKM.mp3" length="61201773" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/lk8OkDxRkKM/lk8OkDxRkKM.mp3" length="61201773" type="audio/mpeg"/>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/lk8OkDxRkKM/hqdefault.jpg"/>
     </item>
@@ -772,7 +772,7 @@
 שיחת מוצ"ש לפרשת חקת מפי ראש ישיבת בית אל הרב זלמן ברוך מלמד שליט"א
 בשידור חי מבית המדרש של ישיבת בית אל.</description>
       <guid isPermaLink="false">y6REV8dWGms</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/y6REV8dWGms/y6REV8dWGms.mp3" length="54122157" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/y6REV8dWGms/y6REV8dWGms.mp3" length="54122157" type="audio/mpeg"/>
       <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/y6REV8dWGms/hqdefault.jpg"/>
     </item>
@@ -790,7 +790,7 @@
 
 השיחה נמסרה בשנת התשפ"ב.</description>
       <guid isPermaLink="false">Tko-ROVkwok</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/Tko-ROVkwok/Tko-ROVkwok.mp3" length="56401965" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/Tko-ROVkwok/Tko-ROVkwok.mp3" length="56401965" type="audio/mpeg"/>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/Tko-ROVkwok/hqdefault.jpg"/>
     </item>
@@ -815,7 +815,7 @@
 שיחת מוצ"ש לפרשת דברים מפי ראש ישיבת בית אל הרב זלמן ברוך מלמד שליט"א
 בשידור חי מהעיר העתיקה ירושלים.</description>
       <guid isPermaLink="false">eCYkIPpyg8o</guid>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/roeepe/YeshivaPod/releases/download/eCYkIPpyg8o/eCYkIPpyg8o.mp3" length="44041581" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/github.com/yeshiva-org-i/YeshivaPod/releases/download/eCYkIPpyg8o/eCYkIPpyg8o.mp3" length="44041581" type="audio/mpeg"/>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
       <itunes:image href="https://i.ytimg.com/vi/eCYkIPpyg8o/hqdefault.jpg"/>
     </item>

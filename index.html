@@ -439,7 +439,7 @@
                 `).join('');
                 
                 // Fetch download counts from GitHub Releases
-                fetch('https://api.github.com/repos/roeepe/YeshivaPod/releases')
+                fetch('https://api.github.com/repos/yeshiva-org-i/YeshivaPod/releases')
                     .then(r => r.json())
                     .then(releases => {
                         const downloads = {};
